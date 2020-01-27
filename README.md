@@ -8,7 +8,7 @@ yarn install or npm install
 expo start
 
 # start and install on react-native
-git clone https://github.com/alirezababae/react-native-list-api.git //select just select App.js , packeg.json and move to project
+git clone https://github.com/alirezababae/react-native-list-api.git //select just select App.js and move to project
 
 yarn install or npm i
 
