@@ -2,7 +2,9 @@
 
 # start and install on expo 
 git clone https://github.com/alirezababae/react-native-list-api.git
-yarn install or npm install 
+
+yarn install or npm install
+
 expo start
 
 # start and install on react-native
